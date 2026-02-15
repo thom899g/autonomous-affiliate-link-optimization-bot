@@ -1,0 +1,6 @@
+{
+    "platforms": ["amazon", "clickbank", "shareasale"],
+    "api_keys": {
+        "amazon": "your_amazon_api_key",
+        "clickbank": "your_clickbank_api_key",
+        "shareasale": "your_sh
